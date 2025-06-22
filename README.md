@@ -45,4 +45,4 @@ python My_first_game.py
 ```
 
 ## Screenshots
-![Gameplay Screenshot](background.png)
+![Gameplay Screenshot](screenshot.png)
